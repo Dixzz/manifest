@@ -5,7 +5,7 @@
            fetch="https://github.com" />
 
   <remote  name="devilian"
-           fetch="https://github.com/DevilianOs-Beta"
+           fetch="https://github.com/DEVILIANOS-WIP"
            revision="pie" />
   
   <remote  name="gzosp"
