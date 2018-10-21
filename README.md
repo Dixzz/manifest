@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/DevilianOs-Beta/manifest/blob/pie/raw/Artboard%201.jpg" >
+<img src="https://github.com/DevilianOs-WIP/manifest/blob/pie/raw/Artboard%201.jpg" >
 </p>
 
 
@@ -13,7 +13,7 @@ A ROM Based on Gzosp, with features from almost all Custom ROMs available.
 
 To initialize your local repository, use this command:
 
-    repo init -u https://github.com/DevilianOs-Beta/manifest.git -b pie
+    repo init -u https://github.com/DevilianOs-WIP/manifest.git -b pie
 
 To sync the repository, use this command:
 
